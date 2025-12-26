@@ -1,4 +1,4 @@
-npm<distributionManagement>
+<distributionManagement>
    <repository>
      <id>github</id>
      <name>GitHub OWNER Apache Maven Packages</name>
