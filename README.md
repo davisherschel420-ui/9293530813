@@ -1,4 +1,4 @@
-install npm<distributionManagement>
+npm<distributionManagement>
    <repository>
      <id>github</id>
      <name>GitHub OWNER Apache Maven Packages</name>
